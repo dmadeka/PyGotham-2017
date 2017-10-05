@@ -1,4 +1,4 @@
-# PyDataSeattle2017
+# PyGotham 2017
 
 ### Dependencies
 
